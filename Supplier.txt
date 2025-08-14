@@ -1,0 +1,6 @@
+5
+1 CarteA AdresaL 0611
+2 CarteB AdresaK 0611012
+3 CarteC AdresaJ 0611135
+4 CarteD AdresaH 061154236
+5 CarteE AdresaG 0611312

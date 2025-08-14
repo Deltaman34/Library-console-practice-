@@ -1,0 +1,121 @@
+Furnizorii carora le lipsesc carti:
+1.Titlu Carte:capra_cu_3_iezi
+ID Furnizor:2035823
+
+2.Titlu Carte:scufita_rosie
+ID Furnizor:5035823
+
+3.Titlu Carte:bla
+ID Furnizor:3035823
+
+4.Titlu Carte:scrisoarea
+ID Furnizor:3035823
+
+5.Titlu Carte:gabron_mate
+ID Furnizor:5474554
+
+6.Titlu Carte:cartile_negre
+ID Furnizor:5035823
+
+7.Titlu Carte:theodores
+ID Furnizor:43634
+
+8.Titlu Carte:cronicile_lumii
+ID Furnizor:7458963
+
+9.Titlu Carte:misterele_ritualurilor
+ID Furnizor:6325847
+
+10.Titlu Carte:luminile_din_nevada
+ID Furnizor:9856321
+
+11.Titlu Carte:inima_pamantului
+ID Furnizor:7456321
+
+12.Titlu Carte:razboiul_dezeurilor
+ID Furnizor:3658963
+
+13.Titlu Carte:noaptea_nemuritorilor
+ID Furnizor:7458952
+
+14.Titlu Carte:ultima_dorinta
+ID Furnizor:6987452
+
+15.Titlu Carte:povestea_lui_domnul
+ID Furnizor:9856327
+
+16.Titlu Carte:orasul_fluturilor
+ID Furnizor:7456327
+
+17.Titlu Carte:umbra_vantului
+ID Furnizor:7456327
+
+18.Titlu Carte:calatoria_catre_lumea
+ID Furnizor:3658741
+
+19.Titlu Carte:oglinzi_cioplite
+ID Furnizor:98563
+
+20.Titlu Carte:necunoscutul_se_joaca
+ID Furnizor:7456985
+
+21.Titlu Carte:inaltul_drum
+ID Furnizor:7456981
+
+22.Titlu Carte:noaptea_magica
+ID Furnizor:7456982
+
+23.Titlu Carte:urmatorul_pas
+ID Furnizor:7456983
+
+24.Titlu Carte:lumina_sufletului
+ID Furnizor:7456984
+
+25.Titlu Carte:taramul_viselor
+ID Furnizor:7456985
+
+26.Titlu Carte:legenda_pierduta
+ID Furnizor:7456986
+
+27.Titlu Carte:secretul_lui_adevarul
+ID Furnizor:7456987
+
+28.Titlu Carte:drumul_spre_nicaieri
+ID Furnizor:7456988
+
+29.Titlu Carte:umbra_sufletului
+ID Furnizor:7456989
+
+30.Titlu Carte:lumea_vrajita
+ID Furnizor:7456990
+
+31.Titlu Carte:poveste_necunoscuta
+ID Furnizor:7456991
+
+32.Titlu Carte:viata_in_pericol
+ID Furnizor:7456992
+
+33.Titlu Carte:pasarea_misterioasa
+ID Furnizor:7456994
+
+34.Titlu Carte:intalnirea_destinului
+ID Furnizor:7456995
+
+35.Titlu Carte:adevarul_ascuns
+ID Furnizor:7456997
+
+36.Titlu Carte:poveste_de_dor
+ID Furnizor:7456998
+
+37.Titlu Carte:misterul_umbrei
+ID Furnizor:7456999
+
+38.Titlu Carte:tandari
+ID Furnizor:43634634
+
+39.Titlu Carte:villiams
+ID Furnizor:152362
+
+40.Titlu Carte:moara_cu_noroc
+ID Furnizor:7456999
+

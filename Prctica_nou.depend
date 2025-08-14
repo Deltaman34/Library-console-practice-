@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729429182 source:j:\cd projects\02.10.2024\prctica_nou\main.cpp
+	"modulara.h"
+
+1729429382 source:j:\cd projects\02.10.2024\prctica_nou\modulara.cpp
+	"modulara.h"
+
+1729429082 j:\cd projects\02.10.2024\prctica_nou\modulara.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
