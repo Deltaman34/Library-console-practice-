@@ -1,4 +1,4 @@
-# C-Library-console-practice-
+# C++-Library-console-practice-
 That's the project from college I have done.There are many tasks that include logic relation and picking up right variables.That is my first huge project  I had been doing for a month, because of poor knowledge of data structure .Lookig at it now,I could say that the project is  bad...really bad,altough,it works well
 
 You must have all files to make the project work
